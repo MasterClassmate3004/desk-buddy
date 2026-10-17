@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DeskBuddy") (type "KiCad") (uri "${KIPRJMOD}/DeskBuddy.pretty") (options "") (descr ""))
+)
