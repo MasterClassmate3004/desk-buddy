@@ -1,15 +1,13 @@
-Reference,Component,Specification / role,Quantity,Status,Unit price INR,Subtotal INR,Notes
-U1,DFRobot Beetle ESP32-C3 RISC-V development board,Main controller with USB and battery interface,1,ORDER,1009,1009,Only order item 1 of 3; listing and price copied from your cart screenshot
-DS1,Waveshare 128x128 1.5-inch OLED display module,Display module; SPI wiring used in this design,1,ORDER,1369,1369,Only order item 2 of 3; listing and price copied from your cart screenshot
-LS1,ACEBOTT passive buzzer module,3-pin signal power and ground module,1,ORDER,239,239,Only order item 3 of 3; listing and price copied from your cart screenshot
-SW1-SW3,Cherry MX switches,Top-click controls,3,ALREADY HAVE,,,Use your existing switches
-R1,Resistor 10 kOhm,OLED reset pull-up to 3V3,1,ALREADY HAVE,,,Through-hole axial resistor footprint in schematic
-R2-R3,Resistors 100 kOhm,Battery sense divider,2,ALREADY HAVE,,,Through-hole axial resistor footprints in schematic
-C1,Capacitor 100 nF,Battery sense input filtering,1,ALREADY HAVE,,,Through-hole capacitor footprint in schematic
-OLED header,2.54 mm 1x08 pin header,PCB-side OLED connection,1,ALREADY HAVE,,,OLED module is connected using its eight SPI pins
-Buzzer header,2.54 mm 1x03 pin header,PCB-side buzzer module connection,1,ALREADY HAVE,,,Check header orientation against the buzzer module pin labels before soldering
-Battery,Existing rechargeable cell compatible with the Beetle BAT and GND connection,Portable power,1,ALREADY HAVE,,,No separate battery holder is listed in the current schematic
-USB cable,USB data/power cable for programming and computer connection,USB connection,1,ALREADY HAVE,,,
-Custom PCB,Desk Buddy controller PCB,PCB fabrication,1,DESIGN / FABRICATE SEPARATELY,,,Manufacturing is not included in the three-item electronics shopping list
-3D enclosure,Printed Desk Buddy case,Enclosure,1,PRINT SEPARATELY,,,
-TOTAL ORDER COST,Three items in cart screenshot,,,ORDER ONLY THESE THREE,2617,2617,Excludes shipping and any price changes
+Component,Quantity,Status,Price (INR)
+DFRobot Beetle ESP32-C3 RISC-V development board,1,ORDER,1009
+Waveshare 128x128 1.5-inch OLED display module,1,ORDER,1369
+ACEBOTT passive buzzer module,1,ORDER,239
+NOVA 603048 3.7V 900mAh LiPo battery pack,1,ORDER,219
+Cherry MX switches,3,ALREADY HAVE,
+10 kOhm resistor,1,ALREADY HAVE,
+100 kOhm resistors,2,ALREADY HAVE,
+100 nF capacitor,1,ALREADY HAVE,
+2.54 mm 1x08 OLED header,1,ALREADY HAVE,
+2.54 mm 1x03 buzzer header,1,ALREADY HAVE,
+Desk Buddy custom PCB,1,DESIGN / FABRICATE SEPARATELY,
+3D printed enclosure,1,PRINT SEPARATELY,
