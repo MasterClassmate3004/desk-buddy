@@ -25,11 +25,13 @@ It includes 4 screen pages, has an in-built Pomodoro time tracker for increased 
 <h3>Schematics</h3>
 <br>
 This is the schematics design for the Desk Buddy that defines all the connections across each component.
+
 ![Schematics](Images/1.jpeg)
 
 <h3>PCB</h3>
 <br>
 This is the PCB design for the Desk Buddy that routes all components and places them as they will be placed in the final PCB.
+
 ![PCB](Images/2.jpeg)
 
 <br><br>
@@ -38,6 +40,7 @@ After you print your PCB and receive all the require components, it is time to s
 
 <h3>PCB 3D view</h3>
 This is the expected 3D view of the expected PCB after soldering of all components.
+
 ![3D_View](Images/3.jpeg)
 
 <br><br>
@@ -47,6 +50,7 @@ After that, place the PCB on the 4 tall legs inside the main case shown and ensu
 <br>
 <h3>Main Case</h3>
 This is the main case of the Desk Buddy
+
 ![Main_Case](Images/4.jpeg)
 
 <br><br>
@@ -54,6 +58,7 @@ After placing the PCB and OLED display in the require positions, use the Top Cov
 
 <h3>Top Cover</h3>
 This is the Top Cover for the Desk Buddy.
+
 ![Top_Cover](Images/5.jpeg)
 
 <br><br>
@@ -61,6 +66,7 @@ The mechanical build for the Desk Buddy is ready. Now only the firmware awaits.
 
 <h3>Final Assembly</h3>
 This is the expected final look of the desk buddy!
+
 ![Final_Assembly](Images/6.jpeg)
 
 <br><br>
